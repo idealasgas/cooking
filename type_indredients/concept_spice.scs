@@ -1,0 +1,5 @@
+sc_node_not_relation -> concept_spice;;
+
+concept_spice => nrel_main_idtf:
+[специя] (* <- lang_ru;; *);
+[spice] (* <- lang_en;; *);;
